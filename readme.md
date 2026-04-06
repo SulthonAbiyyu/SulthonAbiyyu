@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=160&section=header&text=Sulthon+Abiyyu&fontSize=38&fontColor=00ffff&animation=twinkling&fontAlignY=35&desc=Junior+Fullstack+Developer&descAlignY=58&descSize=15&descColor=a855f7" alt="header"/>
 
-<!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Muhammad+Sulthon+Abiyyu;Flutter+%2B+Supabase+%7C+JavaScript+%7C+Mobile+Dev;Building+real+apps+that+matter;Based+in+Sidoarjo%2C+Indonesia)](https://git.io/typing-svg)
 
 <br/>
@@ -63,8 +61,8 @@ final developer = {
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SulthonAbiyyu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070c18&title_color=00ffff&icon_color=a855f7&text_color=c9d1e0"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthonAbiyyu&layout=compact&theme=tokyonight&hide_border=true&bg_color=070c18&title_color=00ffff&text_color=c9d1e0"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SulthonAbiyyu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070c18&title_color=00ffff&icon_color=a855f7&text_color=c9d1e0"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SulthonAbiyyu&layout=compact&theme=tokyonight&hide_border=true&bg_color=070c18&title_color=00ffff&text_color=c9d1e0"/>
 
 </div>
 
@@ -90,8 +88,8 @@ final developer = {
 
 <div align="center">
 
-[![sidrive](https://github-readme-stats.vercel.app/api/pin/?username=SulthonAbiyyu&repo=sidrive&theme=tokyonight&hide_border=true&bg_color=070c18&title_color=00ffff&icon_color=a855f7&text_color=c9d1e0)](https://github.com/SulthonAbiyyu/sidrive)
-[![Sistem-Management-Diskominfo-Malang](https://github-readme-stats.vercel.app/api/pin/?username=SulthonAbiyyu&repo=Sistem-Management-Diskominfo-Malang&theme=tokyonight&hide_border=true&bg_color=070c18&title_color=00ffff&icon_color=a855f7&text_color=c9d1e0)](https://github.com/SulthonAbiyyu/Sistem-Management-Diskominfo-Malang)
+[![sidrive](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SulthonAbiyyu&repo=sidrive&theme=tokyonight&hide_border=true&bg_color=070c18&title_color=00ffff&icon_color=a855f7&text_color=c9d1e0)](https://github.com/SulthonAbiyyu/sidrive)
+[![Sistem-Management-Diskominfo-Malang](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SulthonAbiyyu&repo=Sistem-Management-Diskominfo-Malang&theme=tokyonight&hide_border=true&bg_color=070c18&title_color=00ffff&icon_color=a855f7&text_color=c9d1e0)](https://github.com/SulthonAbiyyu/Sistem-Management-Diskominfo-Malang)
 
 </div>
 
