@@ -1,17 +1,16 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=160&section=header&text=Sulthon%20Abiyyu&fontSize=38&fontColor=00ffff&animation=twinkling&fontAlignY=35&desc=%3C%20Junior%20Fullstack%20Developer%20%2F%3E&descAlignY=58&descSize=15&descColor=a855f7" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=160&section=header&text=Sulthon+Abiyyu&fontSize=38&fontColor=00ffff&animation=twinkling&fontAlignY=35&desc=Junior+Fullstack+Developer&descAlignY=58&descSize=15&descColor=a855f7" alt="header"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Muhammad+Sulthon+Abiyyu+%7C+%40SulthonAbiyyu;Flutter+%2B+Supabase+%7C+JavaScript+%7C+Mobile+Dev;Building+real+apps+that+matter+%F0%9F%9A%80;Based+in+Sidoarjo%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Muhammad+Sulthon+Abiyyu;Flutter+%2B+Supabase+%7C+JavaScript+%7C+Mobile+Dev;Building+real+apps+that+matter;Based+in+Sidoarjo%2C+Indonesia)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- BADGES -->
-![Location](https://img.shields.io/badge/📍_Location-Sidoarjo,_Indonesia-00ffff?style=flat-square&labelColor=070c18)
-![Role](https://img.shields.io/badge/💼_Role-Junior_Fullstack_Developer-a855f7?style=flat-square&labelColor=070c18)
-![Experience](https://img.shields.io/badge/⚡_Experience-1_Year-4ade80?style=flat-square&labelColor=070c18)
+![Location](https://img.shields.io/badge/Location-Sidoarjo%2C_Indonesia-00ffff?style=flat-square&labelColor=070c18)
+![Role](https://img.shields.io/badge/Role-Junior_Fullstack_Developer-a855f7?style=flat-square&labelColor=070c18)
+![Experience](https://img.shields.io/badge/Experience-1_Year-4ade80?style=flat-square&labelColor=070c18)
 ![Status](https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=flat-square&labelColor=070c18)
 
 </div>
@@ -25,7 +24,7 @@ final developer = {
   "name":       "Muhammad Sulthon Abiyyu",
   "username":   "@SulthonAbiyyu",
   "role":       "Junior Fullstack Developer",
-  "location":   "Sidoarjo, Indonesia 🇮🇩",
+  "location":   "Sidoarjo, Indonesia",
   "experience": "1 year",
   "email":      "msulthonabiyyu108@gmail.com",
   "portfolio":  "https://portofolio-website-59998.web.app/",
@@ -71,7 +70,7 @@ final developer = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SulthonAbiyyu&theme=tokyonight&hide_border=true&background=070C18&stroke=0ff3&ring=00FFFF&fire=a855f7&currStreakLabel=00FFFF&sideLabels=c9d1e0&dates=64748b)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SulthonAbiyyu&theme=tokyonight&hide_border=true&background=070C18&ring=00FFFF&fire=a855f7&currStreakLabel=00FFFF)](https://git.io/streak-stats)
 
 </div>
 
@@ -118,6 +117,6 @@ final developer = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer" alt="footer"/>
 
-*`// system ready · sidoarjo, indonesia · 2025`*
+*`// system ready · sidoarjo, indonesia`*
 
 </div>
